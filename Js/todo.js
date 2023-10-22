@@ -38,4 +38,4 @@ function deleteitem(number){
     todolist.splice(number,1);
     renderlist()
 }
-
+renderlist()
